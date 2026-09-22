@@ -1,0 +1,19 @@
+source,target,ligand,receptor,prob,pval,interaction_name,interaction_name_2,pathway_name,annotation,evidence
+NK cells,Neutrophils,Ccl5,Ccr1,0.141921665203037,0,CCL5_CCR1,Ccl5  - Ccr1,CCL,Secreted Signaling,KEGG: mmu04060
+Bas.Eos,Neutrophils,Ccl3,Ccr1,0.0306446272719512,0,CCL3_CCR1,Ccl3  - Ccr1,CCL,Secreted Signaling,KEGG: mmu04060
+Monocytes,Neutrophils,Ccl9,Ccr1,0.0208487632115137,0,CCL9_CCR1,Ccl9  - Ccr1,CCL,Secreted Signaling,KEGG: mmu04060
+Bas.Eos,Neutrophils,Ccl9,Ccr1,0.0309367815430957,0,CCL9_CCR1,Ccl9  - Ccr1,CCL,Secreted Signaling,KEGG: mmu04060
+Neutrophils,Neutrophils,Ccl6,Ccr1,0.098071541683198,0,CCL6_CCR1,Ccl6  - Ccr1,CCL,Secreted Signaling,KEGG: mmu04060
+Monocytes,Neutrophils,Ccl6,Ccr1,0.0243629519101552,0,CCL6_CCR1,Ccl6  - Ccr1,CCL,Secreted Signaling,KEGG: mmu04060
+Bas.Eos,Neutrophils,Ccl6,Ccr1,0.098820683241144,0,CCL6_CCR1,Ccl6  - Ccr1,CCL,Secreted Signaling,KEGG: mmu04060
+Neutrophils,Monocytes,Ccl6,Ccr2,0.268429093737948,0,CCL6_CCR2,Ccl6  - Ccr2,CCL,Secreted Signaling,KEGG: mmu04060
+Monocytes,Monocytes,Ccl6,Ccr2,0.077715687504363,0,CCL6_CCR2,Ccl6  - Ccr2,CCL,Secreted Signaling,KEGG: mmu04060
+Bas.Eos,Monocytes,Ccl6,Ccr2,0.27008986053504,0,CCL6_CCR2,Ccl6  - Ccr2,CCL,Secreted Signaling,KEGG: mmu04060
+Neutrophils,NK cells,Ccl6,Ccr2,0.0672590555059537,0,CCL6_CCR2,Ccl6  - Ccr2,CCL,Secreted Signaling,KEGG: mmu04060
+Monocytes,NK cells,Ccl6,Ccr2,0.0162902375246343,0,CCL6_CCR2,Ccl6  - Ccr2,CCL,Secreted Signaling,KEGG: mmu04060
+Bas.Eos,NK cells,Ccl6,Ccr2,0.0677905196279003,0,CCL6_CCR2,Ccl6  - Ccr2,CCL,Secreted Signaling,KEGG: mmu04060
+Neutrophils,Dendritics,Ccl6,Ccr2,0.0873624864303584,0,CCL6_CCR2,Ccl6  - Ccr2,CCL,Secreted Signaling,KEGG: mmu04060
+Monocytes,Dendritics,Ccl6,Ccr2,0.0215106476363572,0,CCL6_CCR2,Ccl6  - Ccr2,CCL,Secreted Signaling,KEGG: mmu04060
+Bas.Eos,Dendritics,Ccl6,Ccr2,0.0880378093524828,0,CCL6_CCR2,Ccl6  - Ccr2,CCL,Secreted Signaling,KEGG: mmu04060
+Neutrophils,Neutrophils,Anxa1,Fpr2,0.0764673555991138,0,ANXA1_FPR2,Anxa1  - Fpr2,ANNEXIN,Secreted Signaling,PMID: 23230437
+Neutrophils,Neutrophils,Anxa1,Fpr1,0.0797301469275999,0,ANXA1_FPR1,Anxa1  - Fpr1,ANNEXIN,Secreted Signaling,PMID: 23230437

@@ -1,0 +1,23 @@
+Cell,.y.,group1,group2,n1,n2,statistic,p,p.adj,p.signif
+CD8 T cells,Cell composition,Control,Disease,24,39,769.5,4.88e-06,5.368e-05,****
+Eosinophils,Cell composition,Control,Disease,24,39,417.5,0.433,0.528,ns
+M0 Macrophages,Cell composition,Control,Disease,24,39,152,2.6e-06,5.368e-05,****
+M1 Macrophages,Cell composition,Control,Disease,24,39,494.5,0.689,0.7579,ns
+M2 Macrophages,Cell composition,Control,Disease,24,39,333,0.0439,0.0926,*
+Monocytes,Cell composition,Control,Disease,24,39,310,0.0135,0.037125,*
+Neutrophils,Cell composition,Control,Disease,24,39,192,3.65e-05,0.000267666666666667,****
+Plasma cells,Cell composition,Control,Disease,24,39,587,0.0806,0.126657142857143,ns
+activated CD4 memory T cells,Cell composition,Control,Disease,24,39,591,0.059,0.104584615384615,ns
+activated NK cells,Cell composition,Control,Disease,24,39,540,0.289,0.397375,ns
+activated dendritic cells,Cell composition,Control,Disease,24,39,344.5,0.0618,0.104584615384615,ns
+activated mast cells,Cell composition,Control,Disease,24,39,334.5,0.0463,0.0926,*
+follicular helper T cells,Cell composition,Control,Disease,24,39,655,0.00546,0.02002,**
+gammadelta T cells,Cell composition,Control,Disease,24,39,329,0.0265,0.0647777777777778,*
+memory B cells,Cell composition,Control,Disease,24,39,471.5,0.964,0.964,ns
+naive B cells,Cell composition,Control,Disease,24,39,695.5,0.000368,0.0016192,***
+naive CD4 T cells,Cell composition,Control,Disease,24,39,407,0.355,0.459411764705882,ns
+regulatory T cells (Tregs),Cell composition,Control,Disease,24,39,708,0.000249,0.0013695,***
+resting CD4 memory T cells,Cell composition,Control,Disease,24,39,516,0.456,0.528,ns
+resting Mast cells,Cell composition,Control,Disease,24,39,485,0.806,0.844380952380952,ns
+resting NK cells,Cell composition,Control,Disease,24,39,383,0.196,0.287466666666667,ns
+resting dendritic cells,Cell composition,Control,Disease,24,39,626,0.0126,0.037125,*

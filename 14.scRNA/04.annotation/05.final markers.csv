@@ -1,0 +1,8 @@
+"cell_type","marker","cluster"
+"B cells","Igkc,Ighd,Ms4a1,Ly6d","0,2"
+"Neutrophils","S100a8,S100a9,Retnlg,Cxcr2","1,3,4,9"
+"T cells","Trbc1,Cd3d,Trac,Ms4a4b","5"
+"Monocytes","Ccr2,S100a4,Chil3,Ms4a6c,Plac8,Cybb","6,7"
+"NK cells","Gzma,Ccl5,Klra8,Nkg7","8"
+"Bas.Eos","Ccl3,Ms4a2,Gata2,Ccr3","10,12"
+"Dendritics","Cd209a,Bst2,H2-DMb1","11"

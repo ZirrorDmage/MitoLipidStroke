@@ -1,0 +1,8 @@
+"","n","statistic","p","df","method","p.signif","p.adj","p.adj.signif","celltype"
+"B cells",11894,281.562132167479,3.43e-63,1,"Chi-square test","****",3.43e-63,"****","B cells"
+"Bas.Eos",178,0.359550561797753,0.549,1,"Chi-square test","ns",0.549,"ns","Bas.Eos"
+"Dendritics",122,0.524590163934426,0.469,1,"Chi-square test","ns",0.469,"ns","Dendritics"
+"Monocytes",3878,95.3233625580196,1.62e-22,1,"Chi-square test","****",1.62e-22,"****","Monocytes"
+"Neutrophils",13995,831.36270096463,8.19e-183,1,"Chi-square test","****",8.19e-183,"****","Neutrophils"
+"NK cells",750,28.4213333333333,9.76e-08,1,"Chi-square test","****",9.76e-08,"****","NK cells"
+"T cells",4111,14.6010702991973,0.000133,1,"Chi-square test","***",0.000133,"***","T cells"
